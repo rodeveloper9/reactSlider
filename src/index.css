@@ -1,0 +1,19 @@
+@import '../node_modules/h8k-design/dist/index.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.btnContainer {
+  text-align: center;
+}
+.sliders {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+.sliderImg {
+  min-height: 400px;
+  box-shadow: 1px 0 10px #ccc;
+}
